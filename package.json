@@ -9,7 +9,7 @@
     "restart": "pm2 restart LAKA-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:nstar-y/bail",
+    "@whiskeysockets/baileys": "github:hukewtf/Baileys",
     "@adiwajshing/keyed-db": "latest",
     "pino": "latest",
     "pm2": "latest",
